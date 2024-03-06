@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Aamish Tanwir</h1>
 <p align="left"> <a href="https://twitter.com/syedaamishtan" target="blank"><img src="https://img.shields.io/twitter/follow/syedaamishtan?logo=twitter&style=for-the-badge" alt="syedaamishtan" /></a> </p>
 
-- 📫 How to reach me **syed.aamish123**
+- 📫 How to reach me **syedaamish9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
